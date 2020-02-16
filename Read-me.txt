@@ -1,0 +1,6 @@
+ - create the test before developing
+ - 3 stages: red / green / refactor
+
+ - unit tests involves just the class
+ - integration tests
+ - behavior test, example laravel dust
